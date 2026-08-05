@@ -1,8 +1,8 @@
-# Student Attendance Counter using Arduino
+
 
 ## About the Project
 
-This project is a simple **Arduino-based Student Attendance Counter** that keeps track of the number of students inside a classroom. It uses two IR sensors to detect when someone enters or exits, updates the count automatically, and shows the current number of students on a **16×2 I2C LCD**. An LED is also used to indicate whether the classroom is occupied.
+This project is a simple **Automatic Room Light Controller with 2 Digit Counter** that keeps track of the number of students inside a classroom. It uses two IR sensors to detect when someone enters or exits, updates the count automatically, and shows the current number of students on a **16×2 I2C LCD**. An LED is also used to indicate whether the classroom is occupied.
 
 This project is a great way to learn about sensor interfacing, LCD communication, and basic automation using Arduino.
 
